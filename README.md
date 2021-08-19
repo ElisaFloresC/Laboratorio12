@@ -1,1 +1,2 @@
-# Laboratorio12
+# aws-lambda-get-products
+AWS Lambda GET Products

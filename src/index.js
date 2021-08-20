@@ -36,6 +36,11 @@ const products = function () {
             id: 5,
             name: 'Chaufa',
             price: 30
+        },
+        {
+            id: 6,
+            name: 'Ceviche',
+            price: 28
         }
     ];
 }

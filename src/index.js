@@ -41,6 +41,12 @@ const products = function () {
             id: 6,
             name: 'Ceviche',
             price: 28
+        },
+        {
+            id: 7,
+            name: 'Arroz con pollo',
+            price: 35
         }
+
     ];
 }
